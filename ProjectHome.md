@@ -1,0 +1,1 @@
+An elastic publish/subscribe service for self managed p2p networks.
